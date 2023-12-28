@@ -1,7 +1,7 @@
 # Pedestrian_Detection
 
 ## Description
-This project is using improved YOLOv5s model to detect occluded pedestrian.
+An occluded pedestrian detection project using improved YOLOv5s model
 
 ## Key Features
 - Improved YOLOv5s model to enhance occluded object detection capabilities by embedding SE attention mechanisms and replacing SPP with SPP-Fast modules in backbone and adding specialized detection head for small objects
